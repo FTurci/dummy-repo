@@ -1,4 +1,4 @@
-# example-repository
+# dummy-repository
 
 This is an example repository to demonstrate the use of git.
 
