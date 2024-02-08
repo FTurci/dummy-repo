@@ -4,7 +4,7 @@ This is an example repository to demonstrate the use of git.
 
 This includes the leap year calculator demonstrated within the SCIF10001 unit.
 
-## This is a subtitle
+## This is a subtitle from feature_small
 
 Explore the features of this repository. For example:
 
