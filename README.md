@@ -14,7 +14,3 @@ Navigate the features of this repository. For example:
     - How was the first version different from the current version?
  - Use the dropdown to look at the "Tags"
     - Which tags exist and how do they link to the code?
-
-
-#edit
-
